@@ -1,0 +1,3 @@
+[workspace]
+members = ["hyperware-openai-stt", "hyperware-openai-tts"]
+resolver = "2"
